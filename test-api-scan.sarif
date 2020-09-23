@@ -85,6 +85,19 @@
                                 "text": "{'success': 'true', 'token': 'ab123efff683457a1s2d', 'username': 'test'}"
                             }
                         }
+                    ],
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "test.py",
+                                    "uriBaseId": "SRCROOT"
+                                },
+                                "region": {
+                                    "startLine": 1
+                                }
+                            }
+                        }
                     ]
                 }
             ],
